@@ -1,0 +1,8 @@
+Teste de Mesa
+Passo	Janeiro	Fevereiro	Março	Despesa Total	Cálculo da Média Mensal	Saída
+1	15.000	23.000	17.000	15.000 + 23.000 + 17.000 = 55.000	55.000 / 3 = 18.333,33	"Despesa total no trimestre: R$ 55000.00"
+"Média mensal de gastos: R$ 18333.33"
+Como testar:
+Passo 1: Executar o programa.
+Passo 2: Verificar se a despesa total é calculada corretamente (somando os valores de janeiro, fevereiro e março).
+Passo 3: Confirmar se a média mensal de gastos é correta, dividindo a despesa total por 3.
