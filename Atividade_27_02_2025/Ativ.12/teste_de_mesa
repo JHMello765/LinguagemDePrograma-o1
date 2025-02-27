@@ -1,0 +1,9 @@
+Teste de Mesa
+Passo	Valor 1	Valor 2	Comparação	Saída
+1	8	5	8 > 5	"O maior valor é: 8"
+2	3	7	3 < 7	"O maior valor é: 7"
+3	10	10	Não necessário, valores iguais são descartados	"O maior valor é: 10"
+Como testar:
+Passo 1: Executar o programa e fornecer dois valores diferentes.
+Passo 2: Verificar se o programa imprime corretamente o maior valor entre os dois.
+Passo 3: Confirmar que, se os valores forem diferentes, o maior será mostrado corretamente.
