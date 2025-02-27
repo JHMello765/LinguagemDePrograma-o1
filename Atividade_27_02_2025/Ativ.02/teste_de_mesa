@@ -1,0 +1,6 @@
+Teste de Mesa
+Entrada	Cálculo	Saída
+Total Eleitores: 1000		
+Votos Brancos: 100	(100 * 100) / 1000 = 10.0%	Percentual de votos brancos: 10.0%
+Votos Nulos: 150	(150 * 100) / 1000 = 15.0%	Percentual de votos nulos: 15.0%
+Votos Válidos: 750	(750 * 100) / 1000 = 75.0%	Percentual de votos válidos: 75.0%
