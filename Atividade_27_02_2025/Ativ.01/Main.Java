@@ -1,1 +1,24 @@
+import java.util.Scanner;
+
+public class IdadeEmDias {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        
+        // Entrada de dados
+        System.out.print("Digite a idade em anos: ");
+        int anos = scanner.nextInt();
+        System.out.print("Digite a idade em meses: ");
+        int meses = scanner.nextInt();
+        System.out.print("Digite a idade em dias: ");
+        int dias = scanner.nextInt();
+        
+        // Cálculo da idade em dias
+        int idadeEmDias = (anos * 365) + (meses * 30) + dias;
+        
+        // Saída de dados
+        System.out.println("A idade expressa em dias é: " + idadeEmDias);
+        
+        scanner.close();
+    }
+}
 
