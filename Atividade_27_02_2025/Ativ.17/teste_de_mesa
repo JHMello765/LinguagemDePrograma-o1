@@ -1,0 +1,13 @@
+Teste de Mesa
+Passo	P1	E1	E2	API	X	SUB	Cálculo Intermediário	Saída
+1	7.0	8.0	6.0	9.0	5.0	4.0	mediaBase = 7.0*0.6 + ((8.0+6.0)/2)*0.4 = 4.2 + 7.0*0.4 = 4.2 + 2.8 = 7.0
+parte1 = 7.0 * 0.5 = 3.5
+parte2 = max(7.0 - 5.9, 0)/(7.0 - 5.9) = 1.1 / 1.1 = 1.0
+parte3 = 1.0 * 9.0 * 0.5 = 4.5
+parte4 = 5.0
+parte5 = 4.0 * 0.3 = 1.2
+mediaLP1 = 3.5 + 4.5 + 5.0 + 1.2 = 14.2	"A média de LP1 do aluno é: 14.20"
+Como testar:
+Passo 1: Execute o programa e forneça os valores para P1, E1, E2, API, X e SUB.
+Passo 2: Verifique se o cálculo da média de LP1 está correto, conforme os cálculos intermediários fornecidos.
+Passo 3: Confirmar que a saída mostra a média calculada corretamente.
