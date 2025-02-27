@@ -1,0 +1,19 @@
+| Entrada | Condição (valor > 10) | Saída               |
+|---------|----------------------|---------------------|
+| 15      | 15 > 10 (Verdadeiro)  | É MAIOR QUE 10!    |
+| 10      | 10 > 10 (Falso)       | NÃO É MAIOR QUE 10! |
+| 5       | 5 > 10 (Falso)        | NÃO É MAIOR QUE 10! |
+| 11      | 11 > 10 (Verdadeiro)  | É MAIOR QUE 10!    |
+| -3      | -3 > 10 (Falso)       | NÃO É MAIOR QUE 10! |
+
+Passo a Passo:
+Entrada do Usuário:
+
+O programa solicita um número inteiro e armazena na variável valor.
+Verificação:
+
+Se valor for maior que 10, exibe "É MAIOR QUE 10!".
+Caso contrário, exibe "NÃO É MAIOR QUE 10!".
+Saída do Resultado:
+
+O programa imprime a mensagem correspondente.
