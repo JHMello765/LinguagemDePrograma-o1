@@ -1,1 +1,5 @@
-
+Teste de Mesa:
+Entrada	Cálculo	Saída
+Salário Fixo: R$ 2000	Comissão por carro: 3 * R$ 300 = R$ 900	
+Carros Vendidos: 3	Comissão sobre vendas: R$ 50000 * 5% = R$ 2500	
+Valor Total Vendas: R$ 50000	Salário Final: 2000 + 900 + 2500 = R$ 5400	O salário final do vendedor é: R$ 5400
