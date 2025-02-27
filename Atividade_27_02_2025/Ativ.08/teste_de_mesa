@@ -1,0 +1,19 @@
+| Entrada | Condição (valor >= 0) | Saída              |
+|---------|----------------------|--------------------|
+| 5       | 5 >= 0 (Verdadeiro)   | O valor é positivo. |
+| 0       | 0 >= 0 (Verdadeiro)   | O valor é positivo. |
+| -3      | -3 >= 0 (Falso)       | O valor é negativo. |
+| 12      | 12 >= 0 (Verdadeiro)  | O valor é positivo. |
+| -10     | -10 >= 0 (Falso)      | O valor é negativo. |
+
+Passo a Passo:
+Entrada do Usuário:
+
+O programa solicita um número inteiro e armazena na variável valor.
+Verificação:
+
+Se valor for maior ou igual a 0, exibe "O valor é positivo."
+Caso contrário, exibe "O valor é negativo."
+Saída do Resultado:
+
+O programa imprime a mensagem correspondente.
