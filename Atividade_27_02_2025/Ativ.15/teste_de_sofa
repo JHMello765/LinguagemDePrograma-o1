@@ -1,0 +1,9 @@
+Teste de Mesa
+Passo	Horas Trabalhadas	Salário por Hora	Horas Regulares	Cálculo Salário Base	Horas Extras	Cálculo Salário Total	Saída
+1	160	10	160	160 * 10 = 1600	0	1600	"O salário total do funcionário é: R$ 1600.00"
+2	170	10	160	160 * 10 = 1600	10	1600 + (10 * 15) = 1650	"O salário total do funcionário é: R$ 1650.00"
+3	180	12	160	160 * 12 = 1920	20	1920 + (20 * 18) = 2160	"O salário total do funcionário é: R$ 2160.00"
+Como testar:
+Passo 1: Executar o programa e fornecer o número de horas trabalhadas no mês e o valor do salário por hora.
+Passo 2: Verificar se o programa calcula corretamente o salário base e as horas extras (se houverem).
+Passo 3: Confirmar que a saída mostra o salário total correto com as horas extras, quando aplicável.
