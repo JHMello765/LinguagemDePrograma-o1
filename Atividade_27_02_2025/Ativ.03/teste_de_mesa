@@ -1,1 +1,6 @@
+Teste de Mesa:
+Entrada	Cálculo	Saída
+Salário Atual: R$ 2000	2000 + (2000 * 10 / 100) = R$ 2200	O novo salário é: R$ 2200.0
+Salário Atual: R$ 1500	1500 + (1500 * 5 / 100) = R$ 1575	O novo salário é: R$ 1575.0
+Salário Atual: R$ 3000	3000 + (3000 * 15 / 100) = R$ 3450	O novo salário é: R$ 3450.0
 
