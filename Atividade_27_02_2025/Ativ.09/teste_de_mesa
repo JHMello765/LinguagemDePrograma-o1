@@ -1,0 +1,22 @@
+| Entrada | Condição (quantidade >= 12) | Preço por Maçã | Custo Total  |
+|---------|----------------------------|---------------|-------------|
+| 10      | 10 >= 12 (Falso)           | R$ 1,30       | R$ 13,00    |
+| 12      | 12 >= 12 (Verdadeiro)      | R$ 1,00       | R$ 12,00    |
+| 15      | 15 >= 12 (Verdadeiro)      | R$ 1,00       | R$ 15,00    |
+| 5       | 5 >= 12 (Falso)            | R$ 1,30       | R$ 6,50     |
+| 20      | 20 >= 12 (Verdadeiro)      | R$ 1,00       | R$ 20,00    |
+
+Passo a Passo:
+Entrada do Usuário:
+
+O programa solicita a quantidade de maçãs compradas e armazena na variável quantidade.
+Cálculo do Preço:
+
+Se quantidade for 12 ou mais, o preço por maçã será R$ 1,00.
+Caso contrário, o preço por maçã será R$ 1,30.
+Cálculo do Custo Total:
+
+Multiplica-se a quantidade de maçãs pelo preço unitário.
+Saída do Resultado:
+
+O programa exibe o custo total da compra formatado com duas casas decimais.
