@@ -1,0 +1,9 @@
+Teste de Mesa
+Passo	Hora de Início	Hora de Fim	Cálculo da Duração	Saída
+1	8	12	12 - 8 = 4	"A duração do jogo foi de 4 horas."
+2	22	6	(24 - 22) + 6 = 8	"A duração do jogo foi de 8 horas."
+3	15	15	15 - 15 = 0	"A duração do jogo foi de 0 horas."
+Como testar:
+Passo 1: Executar o programa e fornecer a hora de início e a hora de fim do jogo.
+Passo 2: Verificar se o programa calcula corretamente a duração do jogo com base nas horas fornecidas.
+Passo 3: Confirmar que o cálculo da duração funciona tanto para jogos que terminam no mesmo dia quanto para jogos que terminam no dia seguinte.
