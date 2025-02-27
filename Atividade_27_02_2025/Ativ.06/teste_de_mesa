@@ -1,1 +1,21 @@
+| Entrada (Fahrenheit) | Cálculo                           | Saída (Celsius) |
+|----------------------|----------------------------------|-----------------|
+| 212°F               | (212 - 32) * 5 / 9 = **100°C**   | 100°C          |
+| 32°F                | (32 - 32) * 5 / 9 = **0°C**      | 0°C            |
+| 98.6°F              | (98.6 - 32) * 5 / 9 = **37°C**   | 37°C           |
+| 50°F                | (50 - 32) * 5 / 9 = **10°C**     | 10°C           |
+| 0°F                 | (0 - 32) * 5 / 9 = **-17.78°C**  | -17.78°C       |
 
+Explicação do Algoritmo:
+
+#Entrada de Dados
+O usuário insere a temperatura em Fahrenheit.
+O valor é armazenado na variável fahrenheit (tipo double).
+
+#Cálculo da Conversão:
+Utiliza-se a fórmula: Celsius=(Fahrenheit−32)×59Celsius = (Fahrenheit - 32) \times \frac{5}{9}Celsius=(Fahrenheit−32)×95​
+Subtrai-se 32 da temperatura em Fahrenheit.
+Multiplica-se o resultado por 5 e divide-se por 9.
+
+#Saída de Dados:
+O programa exibe a temperatura convertida para Celsius.
