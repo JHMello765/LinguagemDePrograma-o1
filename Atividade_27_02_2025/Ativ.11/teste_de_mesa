@@ -1,0 +1,9 @@
+Teste de Mesa
+Passo	Ano Atual	Ano de Nascimento	Idade Calculada	Condição (Pode votar ou não)	Saída
+1	2025	2007	2025 - 2007 = 18	Idade >= 16, Pode votar	"Você pode votar este ano!"
+2	2025	2009	2025 - 2009 = 16	Idade >= 16, Pode votar	"Você pode votar este ano!"
+3	2025	2010	2025 - 2010 = 15	Idade < 16, Não pode votar	"Você não pode votar este ano."
+Como testar:
+Passo 1: Executar o programa e fornecer o ano atual e o ano de nascimento da pessoa.
+Passo 2: Verificar se a idade da pessoa é calculada corretamente e se o programa determina corretamente se ela pode ou não votar, com base nessa idade.
+Passo 3: Confirmar que as saídas (mensagens) estão corretas conforme o esperado.
