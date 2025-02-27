@@ -1,0 +1,5 @@
+Teste de mesa:
+Entrada	Cálculo	Saída
+2 anos, 3 meses, 10 dias	(2 * 365) + (3 * 30) + 10 = 800	800 dias
+0 anos, 6 meses, 15 dias	(0 * 365) + (6 * 30) + 15 = 195	195 dias
+5 anos, 0 meses, 5 dias	(5 * 365) + (0 * 30) + 5 = 1830	1830 dias
