@@ -1,0 +1,12 @@
+Teste de Mesa
+Passo	Entrada 1 (Nota 1)	Entrada 2 (Nota 2)	Cálculo da Média	Condição (Aprovado/Reprovado)	Saída
+1	7	8	(7 + 8) / 2 = 7.5	Média >= 6, Aprovado	"O aluno foi aprovado!"
+"Média final: 7.5"
+2	4	5	(4 + 5) / 2 = 4.5	Média < 6, Reprovado	"O aluno foi reprovado!"
+"Média final: 4.5"
+3	6	6	(6 + 6) / 2 = 6.0	Média >= 6, Aprovado	"O aluno foi aprovado!"
+"Média final: 6.0"
+Como testar:
+Passo 1: Executar o programa e fornecer as entradas de notas.
+Passo 2: Verificar se a média é calculada corretamente e se o aluno é aprovado ou reprovado com base nessa média.
+Passo 3: Confirmar que as saídas (mensagens e média) estão corretas conforme o esperado.
